@@ -241,7 +241,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/orchestra-2000x1334.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/orchestra-1-2000x1335.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -321,8 +321,8 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/1c-2000x1289.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1c-2000x1290.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -337,7 +337,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2c-2000x1289.png",
+                "image": "@PROJECT_PATH@/assets/images/2c-2000x1290.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -352,7 +352,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/3c-2000x1289.png",
+                "image": "@PROJECT_PATH@/assets/images/3c-2000x1290.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -366,8 +366,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/4c-2000x1289.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4c-2000x1290.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -433,15 +433,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/chertoksmall-2000x3002-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/chertoksmall-2000x3002.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kondratkov-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kondratkov-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kondratkov-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kondratkov-1-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -450,8 +450,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lundin-2000x2831-800x1132.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lundin-2000x2831.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lundin-2000x2832-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lundin-2000x2832.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -460,8 +460,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/serzhanov-2000x2997-800x1198.png",
-                "image": "@PROJECT_PATH@/assets/images/serzhanov-2000x2997.png",
+                "thumb": "@PROJECT_PATH@/assets/images/serzhanov-2000x2997-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/serzhanov-2000x2997.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -470,18 +470,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zizak-2000x2997-800x1198.png",
-                "image": "@PROJECT_PATH@/assets/images/zizak-2000x2997.png",
+                "thumb": "@PROJECT_PATH@/assets/images/zizak-2000x2997-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zizak-2000x2997.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/eshpm-2000x2458-800x983.jpg",
-                "image": "@PROJECT_PATH@/assets/images/eshpm-2000x2458.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/eshpm-2000x2460-800x984.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eshpm-2000x2460.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -490,8 +490,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/demina-2000x2998-800x1199.jpg",
-                "image": "@PROJECT_PATH@/assets/images/demina-2000x2998.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/demina-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/demina-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -558,7 +558,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/makhotkina-600x840.jpg",
+              "src": "@PROJECT_PATH@/assets/images/makhotkina-1-600x840.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -574,7 +574,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pylaeva-600x847.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pylaeva-1-600x838.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -590,7 +590,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kulikova-1-600x865.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kulikova-600x838.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -606,7 +606,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kuleshova-600x902.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kuleshova-600x838.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -622,7 +622,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lisecky-600x835.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -684,8 +684,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -694,20 +694,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1332.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
